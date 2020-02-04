@@ -1,0 +1,25 @@
+body article ul li{
+    list-style-type: none;
+}
+header{
+    text-align: center;
+    box-shadow: 10px 10px 10px cadetblue;
+    background: linear-gradient(40deg, blue, red);
+}
+body{
+    border: 3px solid blue;
+    background-color:azure;
+}
+article li{
+    font-size: 25px;
+}
+span{
+    color: red;
+    box-shadow: 8px 8px 10px black;
+}
+blockquote{
+    color: aqua;
+}
+html{
+    margin: 1em;
+}

@@ -1,0 +1,16 @@
+article{
+    column-count: 3;
+    column-rule: 2px solid black;
+    padding: 1em;
+}
+body{
+    border: 3px solid blue;
+}
+/*footer{
+    padding-bottom: .5em;
+    padding-left: 8em;
+    font-size: 3em;
+}*/
+a:hover{
+    color: red;
+}

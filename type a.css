@@ -1,0 +1,13 @@
+body{
+    border: 3px solid blue;
+    -webkit-column-count:2;
+    -webkit-column-rule: 2px solid cadetblue;
+    padding: 1em;
+    margin: 1em;
+}
+body aside{
+    float: right;
+}
+header img{
+    box-shadow: 10px 3px 10px cadetblue;
+}

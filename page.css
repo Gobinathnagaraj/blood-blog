@@ -1,0 +1,24 @@
+header h1{
+    color: cadetblue;
+    text-align: center;
+    border: 2px solid #800000;
+    background-color: white;
+    margin: 5px;
+    background: linear-gradient(90deg, pink, white);
+}
+body{
+    border: 1px solid darkcyan;
+    background: linear-gradient(45deg, cyan, cadetblue);
+}
+html{
+    background-color: white;
+}
+table{
+    padding-left: 22em;
+}
+th{
+   border: 2px solid darkcyan;
+}
+td{
+  border: .5px solid black;
+}
